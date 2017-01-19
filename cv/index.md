@@ -75,6 +75,7 @@ J Mol Graph Model, J Phys Chem, J Bioinform Comput Biol, PLoS ONE, Proteins
 ## PUBLICATIONS
 
 *Peer Reviewed Journal Articles*
+
 1. Stender JD, Nwachukwu JC, Kastrata I, Kim Y, Strid T, Yakir M, Srinivasan S, Nowak J, Izard T, Erumbi R, Carlson KE, Katzenellenbogen JA, **Yao XQ**, Grant BJ, Leong HS, Lin CY, Frasor J, Nettles KW, Glass C. (2017) Structural and molecular mechanisms of cytokine-mediated endocrine resistance in human breast cancer cells. *Mol Cell* in press.
 2. Nwachukwu JC, Srinivasan S, Bruno NE, Nowak J, Wright NJ, Minutolo F, Erumbi R, Izard T, **Yao XQ**, Grant BJ, Kojetin DJ, Elemento O, Katzenellenbogen JA, Nettles KW. (2016) Super-resolution structural analysis predicts environmental and synthetic estrogen activity. *Cell Chem Biol* in press.
 3. Jariwala S, Skjærven L, **Yao XQ**, and Grant BJ. (2016) Investigating protein sequence-structure-dynamics relationships with Bio3D-web. *J Vis Exp* in press. 
@@ -94,6 +95,7 @@ J Mol Graph Model, J Phys Chem, J Bioinform Comput Biol, PLoS ONE, Proteins
 17. **Yao XQ**, Zhu HQ, and She ZS. (2008) A dynamic Bayesian network approach to protein secondary structure prediction. *BMC Bioinformatics* 9:49.
 
 *Talks*
+
 * “Dynamic coupling and activation mechanisms of heterotrimeric G proteins”, (2016) Cytoskeleton Seminar, University of Michigan
 * “Dynamic coupling and allosteric networks in the alpha subunit of heterotrimeric G proteins”, (2015) Sigtrans Seminar, University of Michigan
 * “G protein allosteric networks from molecular dynamics and normal mode analysis”, (2014) Sigtrans Seminar, University of Michigan
@@ -108,6 +110,7 @@ J Mol Graph Model, J Phys Chem, J Bioinform Comput Biol, PLoS ONE, Proteins
 * “Protein sequence, structure, and dynamics”, (2007) Institute for theoretical physics, Chinese Academy of Science, Beijing, China
 
 *Posters*
+
 * **Yao XQ**, Malik RU, Griggs NW, Skjaerven L, Traynor JR, Sivaramakrishnan S, Grant BJ. Dynamic coupling and allosteric networks in the alpha subunit of heterotrimeric G proteins. (2016) The 60th Annual Meeting of Biophysical Society, LA.
 * Skjaerven L, Jariwala S, **Yao XQ**, Ide J, Grant BJ. The Bio3D project: interactive tools for Structural Bioinformatics. (2016) The 60th Annual Meeting of Biophysical Society, LA.
 * Skjaerven L, **Yao XQ**, Jariwala S, Grant BJ. Bio3D: interactive tools for structural bioinformatics. (2016) The 60th Annual Meeting of Biophysical Society, LA. 
