@@ -48,6 +48,7 @@ Website: <https://xinqyao.github.io> <br>
 ---
 
 ## AFFILLIATIONS AND SOCIAL SERVICES
+
 ### Academic 
 <p> <em>2009 – present</em>, Membership, Biophysical Society </p>
 <p> <em>2010 – 2012</em>, Membership, Biophysical Society of Japan </p>
@@ -72,6 +73,7 @@ J Mol Graph Model, J Phys Chem, J Bioinform Comput Biol, PLoS ONE, Proteins
 ---
 
 ## PUBLICATIONS
+
 ### Peer Reviewed Journal Articles
 1. Stender JD, Nwachukwu JC, Kastrata I, Kim Y, Strid T, Yakir M, Srinivasan S, Nowak J, Izard T, Erumbi R, Carlson KE, Katzenellenbogen JA, **Yao XQ**, Grant BJ, Leong HS, Lin CY, Frasor J, Nettles KW, Glass C. (2017) Structural and molecular mechanisms of cytokine-mediated endocrine resistance in human breast cancer cells. *Mol Cell* in press.
 2. Nwachukwu JC, Srinivasan S, Bruno NE, Nowak J, Wright NJ, Minutolo F, Erumbi R, Izard T, **Yao XQ**, Grant BJ, Kojetin DJ, Elemento O, Katzenellenbogen JA, Nettles KW. (2016) Super-resolution structural analysis predicts environmental and synthetic estrogen activity. *Cell Chem Biol* in press.
