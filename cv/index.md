@@ -65,3 +65,8 @@ Software: Amber, Gromacs, VMD, PyMol, AutoDock, Modeller, etc. <br>
 Programming: R, C, FORTRAN, BASH, Perl, Python, Tcl, etc. <br>
 Language: Mandarin Chinese (native), English (fluent), Japanese (daily communication)
 
+---
+
+## REVIEWER OF JOURNALS
+J Mol Graph Model, J Phys Chem, J Bioinform Comput Biol, PLoS ONE, Proteins
+
