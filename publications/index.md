@@ -5,11 +5,11 @@ title: "Publications of Xin-Qiu Yao"
 
 *Peer Reviewed Journal Articles*
 
-1. Stender JD, Nwachukwu JC, Kastrata I, Kim Y, Strid T, Yakir M, Srinivasan S, Nowak J, Izard T, Erumbi R, Carlson KE, Katzenellenbogen JA, **Yao XQ**, Grant BJ, Leong HS, Lin CY, Frasor J, Nettles KW, Glass C. (2017) Structural and molecular mechanisms of cytokine-mediated endocrine resistance in human breast cancer cells. *Mol Cell* in press.
-2. Nwachukwu JC, Srinivasan S, Bruno NE, Nowak J, Wright NJ, Minutolo F, Erumbi R, Izard T, **Yao XQ**, Grant BJ, Kojetin DJ, Elemento O, Katzenellenbogen JA, Nettles KW. (2016) Super-resolution structural analysis predicts environmental and synthetic estrogen activity. *Cell Chem Biol* in press.
+1. Stender JD, Nwachukwu JC, Kastrata I, Kim Y, Strid T, Yakir M, Srinivasan S, Nowak J, Izard T, Erumbi R, Carlson KE, Katzenellenbogen JA, **Yao XQ**, Grant BJ, Leong HS, Lin CY, Frasor J, Nettles KW, Glass C. (2017) Structural and molecular mechanisms of cytokine-mediated endocrine resistance in human breast cancer cells. *Mol Cell* 65:1122-1135.e5.
+2. Nwachukwu JC, Srinivasan S, Bruno NE, Nowak J, Wright NJ, Minutolo F, Rangarajan ES, Izard T, **Yao XQ**, Grant BJ, Kojetin DJ, Elemento O, Katzenellenbogen JA, Nettles KW. (2017) Systems Structural Biology Analysis of Ligand Effects on ERα Predicts Cellular Response to Environmental Estrogens and Anti-hormone Therapies. *Cell Chem Biol* 24:35-45.
 3. Jariwala S, Skjærven L, **Yao XQ**, and Grant BJ. (2016) Investigating protein sequence-structure-dynamics relationships with Bio3D-web. *J Vis Exp* in press. 
 4. **Yao XQ**, Skjærven L, and Grant BJ. (2016) Rapid characterization of allosteric networks with ensemble normal mode analysis. *J Phys Chem B* 120:8276-88. 
-5. Skjærven L, Jariwala S, **Yao XQ**, and Grant BJ. (2016) Online interactive analysis of protein structure ensembles with Bio3D-web. *Bioinformatics* in press.
+5. Skjærven L, Jariwala S, **Yao XQ**, and Grant BJ. (2016) Online interactive analysis of protein structure ensembles with Bio3D-web. *Bioinformatics* 32:3510-12.
 6. **Yao XQ**, Malik RU, Griggs NW, Skjaerven L, Traynor JR, Sivaramakrishnan S, and Grant BJ. (2016) Dynamic coupling and allosteric networks in the alpha subunit of heterotrimeric G proteins. *J Biol Chem* 291:4742-53. 
 7. Scarabelli G, Soppina V, **Yao XQ**, Atherton J, Moores C, Verhey K, and Grant BJ. (2015) Mapping the processivity determinants of the kinesin-3 motor domain. *Biophys J* 109:1537-40.
 8. Skjaerven L, **Yao XQ**, Scarabelli G, and Grant BJ (2014) Integrating protein structural dynamics and evolutionary analysis with Bio3D. *BMC Bioinformatics* 15:399.
