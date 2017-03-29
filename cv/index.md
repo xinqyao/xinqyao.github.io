@@ -68,5 +68,5 @@ Language: Mandarin Chinese (native), English (fluent), Japanese (daily communica
 ---
 
 ## REVIEWER OF JOURNALS
-J Mol Graph Model, J Phys Chem, J Bioinform Comput Biol, PLoS ONE, Proteins
+J Mol Graph Model, J Phys Chem, J Bioinform Comput Biol, PLoS ONE, Proteins, BMC Bioinformatics
 
