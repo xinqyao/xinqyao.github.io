@@ -67,13 +67,16 @@ Software: Amber, Gromacs, AutoDock, Modeller, VMD, PyMol, etc. <br>
 Programming: R, C/C++, FORTRAN, BASH, Perl, Python, Tcl, etc. <br>
 Language: Mandarin Chinese (native), English (fluent), Japanese (daily communication) <br>
 Expertise: molecular dynamics, coarse-grained molecular modeling and simulation, normal mode analysis, free energy calculation (FEP, umbrella sampling, MM-GB/SA, LIE), comparative modeling, docking, PCA, HMM, Bayesian network, dynamic Bayesian network, neural network
+
 ---
 
 ## REVIEWER
 *Journals*
+
 BMC Bioinformatics, PLoS ONE, Proteins, J Mol Graph Model, J Phys Chem, J Bioinform Comput Biol, Comp Biol & Chem
 
 *Conferences*
+
 2017's Scientific Computing Day, Atlanta
 
 
