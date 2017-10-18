@@ -4,8 +4,10 @@ title: "Publications of Xin-Qiu Yao"
 ---
 
 *Peer Reviewed Journal Articles*
-0. Vu PJ\*, **Yao XQ**\*, Momin M, and Hamelberg D. Unraveling allosteric mechanisms of enzymatic catalysis with an evolutionary analysis of residue-residue contact dynamical changes. *Submitted*. [\*Joint-first authors]
-0. **Yao XQ**\*, Jariwala S\*, and Grant BJ. In silico prediction of HLA-associated drug hypersensitivity. *In preparation*. [\*Joint-first authors]
+- Vu PJ\*, **Yao XQ**\*, Momin M, and Hamelberg D. Unraveling allosteric mechanisms of enzymatic catalysis with an evolutionary analysis of residue-residue contact dynamical changes. *Submitted*. [\*Joint-first authors]
+- **Yao XQ**\*, Jariwala S\*, and Grant BJ. In silico prediction of HLA-associated drug hypersensitivity. *In preparation*. [\*Joint-first authors]
+- Li H, **Yao XQ**, and Grant BJ. Comparative structural dynamic analysis of GTPases. *To be submitted*.
+
 1.	**Yao XQ**\*, Cato MC\*, Labudde E, Beyett TS, Tesmer JJG, and Grant BJ. Navigating the conformational landscape of G protein-coupled receptor kinases during allosteric activation. *J Biol Chem* (2017) 292:16032-16043. [\*Joint-first authors] [link](https://doi.org/10.1074/jbc.m117.807461)
 2.	**Yao XQ**, Skjærven L, and Grant BJ. Rapid characterization of allosteric networks with ensemble normal mode analysis. *J Phys Chem B* (2016) 120:8276-8288. [link](http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01991)
 3.	**Yao XQ**\*, Malik RU\*, Griggs NW, Skjaerven L, Traynor JR, Sivaramakrishnan S, and Grant BJ. Dynamic coupling and allosteric networks in the alpha subunit of heterotrimeric G proteins. *J Biol Chem* (2016) 291:4742-4753. [\*Joint-first authors] [link](http://www.jbc.org/content/291/9/4742)
@@ -14,7 +16,6 @@ title: "Publications of Xin-Qiu Yao"
 6.	**Yao XQ**, Kenzaki H, Murakami S, and Takada S. Drug export and allosteric coupling in a multidrug transporter revealed by molecular simulations. *Nature Commun* (2010) 1:117. (The work was reported by public media: Nikkei Business Daily, Nikkan Kogyo Shimbun, and Kyoto Shimbun). [link](https://www.nature.com/articles/ncomms1116)
 7.	**Yao XQ** and She ZS. Key residue-dominated protein folding dynamics. *Biochem Biophys Res Comm* (2008) 373:64-68. [link](http://www.sciencedirect.com/science/article/pii/S0006291X08010978)
 8.	**Yao XQ**, Zhu HQ, and She ZS. A dynamic Bayesian network approach to protein secondary structure prediction. *BMC Bioinformatics* (2008) 9:49. [link](https://bmcbioinformatics.biomedcentral.com/articles/10.1186/1471-2105-9-49)
-0. Li H, **Yao XQ**, and Grant BJ. Comparative structural dynamic analysis of GTPases. *To be submitted*.
 9.	Bouley R, Waldschmidt HV, Cato MC, Cannavo A, Song J, Cheung JY, **Yao XQ**, Koch WJ, Larsen SD, and Tesmer JJG. Structural determinants influencing the potency and selectivity of indazole-paroxetine hybrid G protein-coupled receptor kinase 2 inhibitors. *Mol Pharmacol* (2017), In press.
 10.	Stender JD, Nwachukwu JC, Kastrata I, Kim Y, Strid T, Yakir M, Srinivasan S, Nowak J, Izard T, Erumbi R, Carlson KE, Katzenellenbogen JA, **Yao XQ**, Grant BJ, Leong HS, Lin CY, Frasor J, Nettles KW, Glass C. Structural and molecular mechanisms of cytokine-mediated endocrine resistance in human breast cancer cells. *Mol Cell* (2017) 65:1122-1135.e5. [link](http://www.cell.com/molecular-cell/abstract/S1097-2765(17)30122-3)
 11.	Nwachukwu JC, Srinivasan S, Bruno NE, Nowak J, Wright NJ, Minutolo F, Rangarajan ES, Izard T, **Yao XQ**, Grant BJ, Kojetin DJ, Elemento O, Katzenellenbogen JA, Nettles KW. systems structural biology analysis of ligand effects on ERα predicts cellular response to environmental estrogens and anti-hormone therapies. *Cell Chem Biol* (2017) 24:35-45. [link](http://www.cell.com/cell-chemical-biology/abstract/S2451-9456(16)30437-8)
