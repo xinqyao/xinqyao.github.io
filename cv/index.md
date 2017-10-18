@@ -10,7 +10,7 @@ Georgia State University <br>
 Department of Chemistry <br>
 29 Peachtree Center Ave NE
 Atlanta, GA 30303-2515, USA <br>
-E-Mail: <xinqiu.yao(a)gmail.com> <br>
+E-Mail: <xinqiu.yao(at)gmail.com> <br>
 Website: <https://xinqyao.github.io> <br>
 <br>
 
