@@ -4,11 +4,11 @@ title: "Publications of Xin-Qiu Yao"
 ---
 
 *Peer Reviewed Journal Articles*
--	Vu PJ*, **Yao XQ***, Momin M, and Hamelberg D. Unraveling allosteric mechanisms of enzymatic catalysis with an evolutionary analysis of residue-residue contact dynamical changes. *Submitted*. [*Joint-first authors]
--	**Yao XQ***, Jariwala S*, and Grant BJ. In silico prediction of HLA-associated drug hypersensitivity. *In preparation*. [*Joint-first authors]
-1.	**Yao XQ***, Cato MC*, Labudde E, Beyett TS, Tesmer JJG, and Grant BJ. Navigating the conformational landscape of G protein-coupled receptor kinases during allosteric activation. *J Biol Chem* (2017) 292:16032-16043. [*Joint-first authors] [link](https://doi.org/10.1074/jbc.m117.807461)
+-	Vu PJ\*, **Yao XQ**\*, Momin M, and Hamelberg D. Unraveling allosteric mechanisms of enzymatic catalysis with an evolutionary analysis of residue-residue contact dynamical changes. *Submitted*. [\*Joint-first authors]
+-	**Yao XQ**\*, Jariwala S\*, and Grant BJ. In silico prediction of HLA-associated drug hypersensitivity. *In preparation*. [\*Joint-first authors]
+1.	**Yao XQ**\*, Cato MC\*, Labudde E, Beyett TS, Tesmer JJG, and Grant BJ. Navigating the conformational landscape of G protein-coupled receptor kinases during allosteric activation. *J Biol Chem* (2017) 292:16032-16043. [\*Joint-first authors] [link](https://doi.org/10.1074/jbc.m117.807461)
 2.	**Yao XQ**, Skjærven L, and Grant BJ. Rapid characterization of allosteric networks with ensemble normal mode analysis. *J Phys Chem B* (2016) 120:8276-8288. [link](http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01991)
-3.	**Yao XQ***, Malik RU*, Griggs NW, Skjaerven L, Traynor JR, Sivaramakrishnan S, and Grant BJ. Dynamic coupling and allosteric networks in the alpha subunit of heterotrimeric G proteins. *J Biol Chem* (2016) 291:4742-4753. [*Joint-first authors] [link](http://www.jbc.org/content/291/9/4742)
+3.	**Yao XQ**\*, Malik RU\*, Griggs NW, Skjaerven L, Traynor JR, Sivaramakrishnan S, and Grant BJ. Dynamic coupling and allosteric networks in the alpha subunit of heterotrimeric G proteins. *J Biol Chem* (2016) 291:4742-4753. [\*Joint-first authors] [link](http://www.jbc.org/content/291/9/4742)
 4.	**Yao XQ** and Grant BJ. Domain-opening and dynamic coupling in the α-subunit of heterotrimeric G proteins. *Biophys J* (2013) 105:L08-L10. [link](http://www.cell.com/biophysj/abstract/S0006-3495(13)00680-2)
 5.	**Yao XQ**, Kimura N, Murakami S, and Takada S. Drug uptake pathways of multidrug transporter AcrB studied by molecular simulations and site-directed mutagenesis experiments. *J Am Chem Soc* (2013) 135:7474-7485. [link](http://pubs.acs.org/doi/abs/10.1021/ja310548h)
 6.	**Yao XQ**, Kenzaki H, Murakami S, and Takada S. Drug export and allosteric coupling in a multidrug transporter revealed by molecular simulations. *Nature Commun* (2010) 1:117. (The work was reported by public media: Nikkei Business Daily, Nikkan Kogyo Shimbun, and Kyoto Shimbun). [link](https://www.nature.com/articles/ncomms1116)
