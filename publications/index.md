@@ -4,7 +4,7 @@ title: "Publications of Xin-Qiu Yao"
 ---
 
 *Peer Reviewed Journal Articles*
-- Vu PJ\*, **Yao XQ**\*, Momin M, and Hamelberg D. Unraveling allosteric mechanisms of enzymatic catalysis with an evolutionary analysis of residue-residue contact dynamical changes. *Submitted*. [\*Joint-first authors]
+- Vu PJ\*, **Yao XQ**\*, Momin M, and Hamelberg D. Unraveling allosteric mechanisms of enzymatic catalysis with an evolutionary analysis of residue-residue contact dynamical changes. *PNAS (under review)*. [\*Joint-first authors]
 - **Yao XQ**\*, Jariwala S\*, and Grant BJ. In silico prediction of HLA-associated drug hypersensitivity. *In preparation*. [\*Joint-first authors]
 - Li H, **Yao XQ**, and Grant BJ. Comparative structural dynamic analysis of GTPases. *To be submitted*.
 
