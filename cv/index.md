@@ -11,7 +11,7 @@ Department of Chemistry <br>
 29 Peachtree Center Ave NE <br>
 Atlanta, GA 30303-2515, USA <br>
 E-Mail: <xinqiu.yao(at)gmail.com> <br>
-Website: <https://xinqyao.github.io> <br>
+Web: <https://xinqyao.github.io> <br>
 <br>
 
 ## APPOINTMENTS
