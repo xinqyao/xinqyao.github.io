@@ -6,8 +6,8 @@ title: "CV of Xin-Qiu Yao"
 
 # Xin-Qiu YAO, Ph.D.
 
-Georgia State University <br>
 Department of Chemistry <br>
+Georgia State University <br>
 29 Peachtree Center Ave NE <br>
 Atlanta, GA 30303-2515, USA <br>
 E-Mail: <xinqiu.yao(at)gmail.com> <br>
