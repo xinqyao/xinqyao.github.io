@@ -25,7 +25,7 @@ See my [CV](/cv) for additional information.
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
 var sc_project=11495595; 
-var sc_invisible=0; 
+var sc_invisible=1; 
 var sc_security="91164f58"; 
 var sc_text=2; 
 var sc_https=1; 
