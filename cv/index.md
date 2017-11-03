@@ -67,7 +67,7 @@ Software: Amber, Gromacs, AutoDock, Modeller, VMD, PyMol, etc. <br>
 Programming: R, C/C++, FORTRAN, BASH, Perl, Python, Tcl, etc. <br>
 Language: Mandarin Chinese (native), English (fluent), Japanese (daily communication) <br>
 Expertise: molecular dynamics, coarse-grained molecular modeling and simulation, normal mode analysis, free energy calculation (FEP, umbrella sampling, MM-GB/SA, LIE), comparative modeling, docking, PCA, HMM, Bayesian network, dynamic Bayesian network, neural network
-
+  
 ---
 
 ## REVIEWER
