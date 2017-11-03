@@ -27,7 +27,6 @@ See my [CV](/cv) for additional information.
 var sc_project=11495595; 
 var sc_invisible=1; 
 var sc_security="91164f58"; 
-var sc_text=2; 
 var sc_https=1; 
 var scJsHost = (("https:" == document.location.protocol) ?
 "https://secure." : "http://www.");
