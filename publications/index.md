@@ -6,7 +6,8 @@ title: "Publications of Xin-Qiu Yao"
 *Peer Reviewed Journal Articles (\*Joint-First Authors)*
 - **Yao XQ**\*, Jariwala S\*, and Grant BJ. In silico prediction of HLA-associated drug hypersensitivity. *In preparation*.
 - Li H, **Yao XQ**, and Grant BJ. Comparative structural dynamic analysis of GTPases. *To be submitted*.
-1. Vu PJ\*, **Yao XQ**\*, Momin M, and Hamelberg D. Unraveling allosteric mechanisms of enzymatic catalysis with an evolutionary analysis of residue-residue contact dynamical changes. *ACS Catalysis* (in press). [link](http://pubs.acs.org/doi/abs/10.1021/acscatal.7b04263)
+
+1.  Vu PJ\*, **Yao XQ**\*, Momin M, and Hamelberg D. Unraveling allosteric mechanisms of enzymatic catalysis with an evolutionary analysis of residue-residue contact dynamical changes. *ACS Catalysis* (in press). [link](http://pubs.acs.org/doi/abs/10.1021/acscatal.7b04263)
 2.	**Yao XQ**\*, Cato MC\*, Labudde E, Beyett TS, Tesmer JJG, and Grant BJ. Navigating the conformational landscape of G protein-coupled receptor kinases during allosteric activation. *J Biol Chem* (2017) 292:16032-16043. [link](https://doi.org/10.1074/jbc.m117.807461)
 3.	**Yao XQ**, Skjærven L, and Grant BJ. Rapid characterization of allosteric networks with ensemble normal mode analysis. *J Phys Chem B* (2016) 120:8276-8288. [link](http://pubs.acs.org/doi/abs/10.1021/acs.jpcb.6b01991)
 4.	**Yao XQ**\*, Malik RU\*, Griggs NW, Skjaerven L, Traynor JR, Sivaramakrishnan S, and Grant BJ. Dynamic coupling and allosteric networks in the alpha subunit of heterotrimeric G proteins. *J Biol Chem* (2016) 291:4742-4753. [link](http://www.jbc.org/content/291/9/4742)
