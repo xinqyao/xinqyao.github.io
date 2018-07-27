@@ -7,7 +7,7 @@ title: "Publications of Xin-Qiu Yao"
 - **Yao XQ**\*, Jariwala S\*, and Grant BJ. In silico prediction of HLA-associated drug hypersensitivity. *In preparation*.
 - Li H, **Yao XQ**, and Grant BJ. Comparative structural dynamic analysis of GTPases. *Submitted*.
 
-*- 2018 -*
+  *- 2018 -*
 
 1. **Yao XQ**<sup>#</sup>, Momin M, and Hamelberg D<sup>#</sup>. Elucidating allosteric communications in proteins with difference contact network analysis. *J Chem Inf Moldel* (2018) 58:1325-1330. [link](https://doi.org/10.1021/acs.jcim.8b00250)
 2. Rodriguez-Bussey I, **Yao XQ**, Shouaib AD, Lopez J, and Hamelberg D. Decoding allosteric communication pathways in cyclophilin A with a comparative analysis of perturbed conformational ensembles. *J Phys Chem B* (2018) 122:6528-6535. [link](https://doi.org/10.1021/acs.jpcb.8b03824)
