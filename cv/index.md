@@ -13,7 +13,6 @@ Atlanta, GA 30303-2515, USA <br>
 E-Mail: <xinqiu.yao(at)gmail.com> <br>
 Web: <https://xinqyao.github.io> <br>
 <br>
----
 
 <p> EXPERTISE: bioinformatics, computational chemistry, molecular dynamics, coarse-grained models, molecular modeling, docking, free energy calculation, machine learning, genome informatics </p>
 ---
