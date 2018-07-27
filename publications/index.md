@@ -16,8 +16,7 @@ title: "Publications of Xin-Qiu Yao"
 
 *- 2017 -*
 
-{:start="5"}   
-5. **Yao XQ**\*, Cato MC\*, Labudde E, Beyett TS, Tesmer JJG, and Grant BJ. Navigating the conformational landscape of G protein-coupled receptor kinases during allosteric activation. *J Biol Chem* (2017) 292:16032-16043. [link](https://doi.org/10.1074/jbc.m117.807461)
+1. - 5. **Yao XQ**\*, Cato MC\*, Labudde E, Beyett TS, Tesmer JJG, and Grant BJ. Navigating the conformational landscape of G protein-coupled receptor kinases during allosteric activation. *J Biol Chem* (2017) 292:16032-16043. [link](https://doi.org/10.1074/jbc.m117.807461)
 6. Bouley R, Waldschmidt HV, Cato MC, Cannavo A, Song J, Cheung JY, **Yao XQ**, Koch WJ, Larsen SD, and Tesmer JJG. Structural determinants influencing the potency and selectivity of indazole-paroxetine hybrid G protein-coupled receptor kinase 2 inhibitors. *Mol Pharmacol* (2017) 92:707-717. [link](https://doi.org/10.1124/mol.117.110130)
 7. Stender JD, Nwachukwu JC, Kastrata I, Kim Y, Strid T, Yakir M, Srinivasan S, Nowak J, Izard T, Erumbi R, Carlson KE, Katzenellenbogen JA, **Yao XQ**, Grant BJ, Leong HS, Lin CY, Frasor J, Nettles KW, Glass C. Structural and molecular mechanisms of cytokine-mediated endocrine resistance in human breast cancer cells. *Mol Cell* (2017) 65:1122-1135.e5. [link](https://doi.org/10.1016/j.molcel.2017.02.008)
 8. Nwachukwu JC, Srinivasan S, Bruno NE, Nowak J, Wright NJ, Minutolo F, Rangarajan ES, Izard T, **Yao XQ**, Grant BJ, Kojetin DJ, Elemento O, Katzenellenbogen JA, Nettles KW. systems structural biology analysis of ligand effects on ERα predicts cellular response to environmental estrogens and anti-hormone therapies. *Cell Chem Biol* (2017) 24:35-45. [link](https://doi.org/10.1016/j.chembiol.2016.11.014)
