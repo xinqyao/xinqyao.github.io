@@ -14,7 +14,9 @@ E-Mail: <xinqiu.yao(at)gmail.com> <br>
 Web: <https://xinqyao.github.io> <br>
 <br>
 
+---
 EXPERTISE: bioinformatics, computational chemistry, molecular dynamics, coarse-grained models, molecular modeling, docking, free energy calculation, machine learning, genome informatics
+---
 
 ## EDUCATION
 <p> <em>2008</em>, <strong> Ph.D.</strong>, Biomechanics and Medical Engineering, College of Engineering, Peking University (Title of dissertation: “A complex systems approach to study of protein structures”) </p>
