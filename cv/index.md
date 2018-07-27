@@ -31,8 +31,8 @@ Web: <https://xinqyao.github.io> <br>
 ---
 
 ## TRAININGS
-<p> <em>2018</em>	Scalable and Reproducible Structural Bioinformatics Workshop & Hackathon 2018, San Diego, CA </p>
-<p> <em>2015</em>	Anton Workshop 2015, Pittsburgh, PA </p>
+<p> <em>2018</em>,	Scalable and Reproducible Structural Bioinformatics Workshop & Hackathon 2018, San Diego, CA </p>
+<p> <em>2015</em>,	Anton Workshop 2015, Pittsburgh, PA </p>
 <p> <em>2003</em>, Trainee, School of Parallel Computing, Chinese Academy of Science, Beijing, China </p>
 ---
 
