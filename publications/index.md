@@ -15,6 +15,7 @@ title: "Publications of Xin-Qiu Yao"
 4. Vu PJ\*, **Yao XQ**\*, Momin M, and Hamelberg D. Unraveling allosteric mechanisms of enzymatic catalysis with an evolutionary analysis of residue-residue contact dynamical changes. *ACS Catalysis* (2018) 8:2375-2384. [link](https://doi.org/10.1021/acscatal.7b04263)
 
 *- 2017 -*
+
 {:start="5"}   
 5. **Yao XQ**\*, Cato MC\*, Labudde E, Beyett TS, Tesmer JJG, and Grant BJ. Navigating the conformational landscape of G protein-coupled receptor kinases during allosteric activation. *J Biol Chem* (2017) 292:16032-16043. [link](https://doi.org/10.1074/jbc.m117.807461)
 6. Bouley R, Waldschmidt HV, Cato MC, Cannavo A, Song J, Cheung JY, **Yao XQ**, Koch WJ, Larsen SD, and Tesmer JJG. Structural determinants influencing the potency and selectivity of indazole-paroxetine hybrid G protein-coupled receptor kinase 2 inhibitors. *Mol Pharmacol* (2017) 92:707-717. [link](https://doi.org/10.1124/mol.117.110130)
