@@ -16,6 +16,7 @@ Web: <https://xinqyao.github.io> <br>
 ---
 
 EXPERTISE: bioinformatics, computational chemistry, molecular dynamics, coarse-grained models, molecular modeling, docking, free energy calculation, machine learning, genome informatics
+
 ---
 
 ## EDUCATION
