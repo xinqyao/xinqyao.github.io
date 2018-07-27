@@ -6,14 +6,14 @@ title: "Publications of Xin-Qiu Yao"
 *Peer Reviewed Journal Articles (\*Joint-First, <sup>#</sup>Co-corresponding)*
 - **Yao XQ**\*, Jariwala S\*, and Grant BJ. In silico prediction of HLA-associated drug hypersensitivity. *In preparation*.
 - Li H, **Yao XQ**, and Grant BJ. Comparative structural dynamic analysis of GTPases. *To be submitted*.
-   
+
    *- 2018 -*
    
 1. **Yao XQ**<sup>#</sup>, Momin M, and Hamelberg D<sup>#</sup>. Elucidating allosteric communications in proteins with difference contact network analysis. *J Chem Inf Moldel* (2018) 58:1325-1330. [link](https://doi.org/10.1021/acs.jcim.8b00250)
 2. Rodriguez-Bussey I, **Yao XQ**, Shouaib AD, Lopez J, and Hamelberg D. Decoding allosteric communication pathways in cyclophilin A with a comparative analysis of perturbed conformational ensembles. *J Phys Chem B* (2018) 122:6528-6535. [link](https://doi.org/10.1021/acs.jpcb.8b03824)
 3. Momin MF, **Yao XQ**, Thor W, and Hamelberg D. Substrate sequence determines catalytic activities, domain-binding preferences, and allosteric mechanisms in Pin1. *J Phys Chem B* (2018) 122:6521-6527. [link](https://doi.org/10.1021/acs.jpcb.8b038192)  
 4. Vu PJ\*, **Yao XQ**\*, Momin M, and Hamelberg D. Unraveling allosteric mechanisms of enzymatic catalysis with an evolutionary analysis of residue-residue contact dynamical changes. *ACS Catalysis* (2018) 8:2375-2384. [link](https://doi.org/10.1021/acscatal.7b04263)
-   
+
    *- 2017 -*
    
 5. **Yao XQ**\*, Cato MC\*, Labudde E, Beyett TS, Tesmer JJG, and Grant BJ. Navigating the conformational landscape of G protein-coupled receptor kinases during allosteric activation. *J Biol Chem* (2017) 292:16032-16043. [link](https://doi.org/10.1074/jbc.m117.807461)
