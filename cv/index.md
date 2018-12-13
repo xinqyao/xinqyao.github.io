@@ -26,7 +26,7 @@ Web: <https://xinqyao.github.io> <br>
 <p> <em>2017 – present</em>, Postdoctoral Research Associate, Chemistry, Georgia State University </p>
 <p> <em>2012 – 2017</em>, Postdoctoral Research Fellow, Computational Medicine & Bioinformatics, University of Michigan </p>
 <p> <em>2008 – 2012</em>, Postdoctoral Research Fellow, Biophysics, Grad School of Science, Kyoto University </p>
-<p> <em>2002 – 2008</em>, RA, Center for Theoretical Biology (Zhen-Su She and Huaiqiu Zhu Lab), Peking University </p>
+<p> <em>2002 – 2008</em>, RA, Center for Theoretical Biology, Peking University </p>
 <p> <em>2004</em>, Internship, Intel China Research Center, Beijing, China </p>
 ---
 
