@@ -23,9 +23,9 @@ Web: <https://xinqyao.github.io> <br>
 ---
 
 ## APPOINTMENTS AND RESEARCH EXPERIENCE
-<p> <em>2017 – present</em>, Postdoctoral Research Associate (Hamelberg Lab), Chemistry, Georgia State University </p>
-<p> <em>2012 – 2017</em>, Postdoctoral Research Fellow (Grant Lab), Computational Medicine & Bioinformatics, University of Michigan </p>
-<p> <em>2008 – 2012</em>, Postdoctoral Research Fellow (Takada Lab), Biophysics, Grad School of Science, Kyoto University </p>
+<p> <em>2017 – present</em>, Postdoctoral Research Associate, Chemistry, Georgia State University </p>
+<p> <em>2012 – 2017</em>, Postdoctoral Research Fellow, Computational Medicine & Bioinformatics, University of Michigan </p>
+<p> <em>2008 – 2012</em>, Postdoctoral Research Fellow, Biophysics, Grad School of Science, Kyoto University </p>
 <p> <em>2002 – 2008</em>, RA, Center for Theoretical Biology (Zhen-Su She and Huaiqiu Zhu Lab), Peking University </p>
 <p> <em>2004</em>, Internship, Intel China Research Center, Beijing, China </p>
 ---
@@ -42,15 +42,14 @@ Web: <https://xinqyao.github.io> <br>
 ---
 
 ## GRANTS
-<p> <em>2015</em>, <strong>Co-I</strong>, “G Protein Activation Mechanisms” (Proposal for allocation of simulation time on Anton at  Pittsburgh Supercomputing Center, Grant No. MCB150033P) <strong>[Awarded]</strong> </p>
+<p> <em>2015</em>, <strong>Co-Writer</strong>, “G Protein Activation Mechanisms”, proposal for allocation of simulation time on Anton at  Pittsburgh Supercomputing Center <strong>[Awarded]</strong> </p>
 ---
 
 ## HONORS AND AWARDS
 <p> <em>2011</em>, <strong>The Best Talk</strong>, “The 13th Annual Meeting of Chinese Life Science Association”, Kyoto, Japan </p>
 <p> <em>2010</em>, <strong>The Best Poster</strong>, “The 2nd Biosupercomputing Symposium”, Tokyo, Japan </p>
 <p> <em>2008</em>, General Presentation Award, “Bio-rad Forum of Graduate Students”, Peking University, Beijing, China </p>
-<p> <em>2000</em>, General Scholarship, Hunan University, Changsha, China </p> 
-<p> <em>1999</em>, General Scholarship, Hunan University, Changsha, China </p>
+<p> <em>1999, 2000</em>, General Scholarship, Hunan University, Changsha, China </p> 
 ---
 
 ## PROFESSIONAL MEMBERSHIP
@@ -70,10 +69,10 @@ Language: Mandarin Chinese, English <br>
 ## REVIEWER
 *Journals*
 
-Proteins, BMC Bioinformatics, PLoS ONE, J Mol Graph Model, J Phys Chem, J Bioinform Comput Biol, Comp Biol & Chem, Chem Phys Lett
+Proteins, BMC Bioinformatics, PLoS ONE, J Mol Graph Model, J Phys Chem, J Bioinform Comput Biol, Comp Biol & Chem, Chem Phys Lett, Nature Commun, Commun Chem
 
 *Conferences*
 
-2017's Scientific Computing Day, Atlanta
+2017's and 2018's Scientific Computing Day, Atlanta
 
 
