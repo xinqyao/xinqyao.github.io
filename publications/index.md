@@ -4,6 +4,7 @@ title: "Publications of Xin-Qiu Yao"
 ---
 
 *Peer Reviewed Journal Articles (\*Joint-First, <sup>#</sup>Co-corresponding)*
+
 24. Li H, **Yao XQ**, and Grant BJ. Comparative structural dynamic analysis of GTPases. *PLoS Comput Biol* (2018) 14:e1006364. [link](https://doi.org/10.1371/journal.pcbi.1006364)
 23. **Yao XQ**<sup>#</sup>, Momin M, and Hamelberg D<sup>#</sup>. Elucidating allosteric communications in proteins with difference contact network analysis. *J Chem Inf Moldel* (2018) 58:1325-1330. [link](https://doi.org/10.1021/acs.jcim.8b00250)
 22. Rodriguez-Bussey I, **Yao XQ**, Shouaib AD, Lopez J, and Hamelberg D. Decoding allosteric communication pathways in cyclophilin A with a comparative analysis of perturbed conformational ensembles. *J Phys Chem B* (2018) 122:6528-6535. [link](https://doi.org/10.1021/acs.jpcb.8b03824)
