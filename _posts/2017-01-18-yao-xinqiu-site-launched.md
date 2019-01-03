@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Xin-Qiu Yao Launches Site"
+title: "Xinqiu Yao Launches Site"
 date: 2017-01-18
 ---
 

@@ -1,10 +1,10 @@
 ---
 layout: default
-title: "CV of Xin-Qiu Yao"
+title: "CV of Xinqiu Yao"
 ---
 [Download CV as PDF](CV_XQYao.pdf).
 
-# Xin-Qiu YAO, Ph.D.
+# Xinqiu YAO, Ph.D.
 
 Department of Chemistry <br>
 Georgia State University <br>

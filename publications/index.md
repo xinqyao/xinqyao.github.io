@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "Publications of Xin-Qiu Yao"
+title: "Publications of Xinqiu Yao"
 ---
 
 *Peer Reviewed Journal Articles (\*Joint-First, <sup>#</sup>Co-corresponding)*

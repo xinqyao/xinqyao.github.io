@@ -1,9 +1,9 @@
 ---
 layout: default
-title: Xin-Qiu Yao
+title: Xinqiu Yao
 ---
 
-# Xin-Qiu Yao, Ph.D.
+# Xinqiu Yao, Ph.D.
 
 My research applies computational chemistry and bioinformatics to fundamental questions in biochemistry, biophysics, and molecular biology. My general approach is to develop and apply state-of-the-art computational techniques that can be coupled to experimental methods, and be predictive of a wide range of physiological and pathophysiological processes, including:
 
