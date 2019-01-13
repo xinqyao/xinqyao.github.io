@@ -69,10 +69,11 @@ Language: Mandarin Chinese, English <br>
 ## REVIEWER
 *Journals*
 
-Proteins, BMC Bioinformatics, PLoS ONE, J Mol Graph Model, J Phys Chem, J Bioinform Comput Biol, Comp Biol & Chem, Chem Phys Lett, Nature Commun, Commun Chem
+Nature Communications, BMC Bioinformatics, Proteins, PLoS ONE, J Phys Chem, J Mol Graph Model, Comp Biol & Chem, Chem Phys Lett, Commun Chem, J Bioinform Comput Biol, 
 
 *Conferences*
 
-2017's and 2018's Scientific Computing Day, Atlanta
+2017's Scientific Computing Day, Atlanta<br>
+2018's Scientific Computing Day, Atlanta
 
 
