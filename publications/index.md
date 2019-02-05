@@ -2,6 +2,8 @@
 layout: default
 title: "Publications of Xinqiu Yao"
 ---
+*Book Chapters*
+* Grant BJ, Skjærven L, and **Yao XQ**. Comparative protein structure analysis with Bio3D-web. *Methods in Molecular Biology* (2019), submitted (invited).
 
 *Peer Reviewed Journal Articles (\*Joint-First, <sup>#</sup>Co-corresponding)*
 1. Li H, **Yao XQ**, and Grant BJ. Comparative structural dynamic analysis of GTPases. *PLoS Comput Biol* (2018) 14:e1006364. [link](https://doi.org/10.1371/journal.pcbi.1006364)
