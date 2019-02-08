@@ -2,30 +2,41 @@
 layout: default
 title: "Memos"
 ---
+<script>
+function includeHTML() {
+  var z, i, elmnt, file, xhttp;
+  /* Loop through a collection of all HTML elements: */
+  z = document.getElementsByTagName("*");
+  for (i = 0; i < z.length; i++) {
+    elmnt = z[i];
+    /*search for elements with a certain atrribute:*/
+    file = elmnt.getAttribute("w3-include-html");
+    if (file) {
+      /* Make an HTTP request using the attribute value as the file name: */
+      xhttp = new XMLHttpRequest();
+      xhttp.onreadystatechange = function() {
+        if (this.readyState == 4) {
+          if (this.status == 200) {elmnt.innerHTML = this.responseText;}
+          if (this.status == 404) {elmnt.innerHTML = "Page not found.";}
+          /* Remove the attribute, and call this function once more: */
+          elmnt.removeAttribute("w3-include-html");
+          includeHTML();
+        }
+      } 
+      xhttp.open("GET", file, true);
+      xhttp.send();
+      /* Exit the function: */
+      return;
+    }
+  }
+}
+</script>
 
-* Books
-     - Statistical Network Analysis with igraph *(by G. Csardi)*
-     - Physical Chemistry *(by Peter Atkins)*
-     - Protein NMR Spectroscopy: Principles and Practice *(By Arthur G. Palmer, et al.)*
-     - What Is Life? *(by Schrodinger)*
-     - Fundamentals of Protein NMR Spectroscopy *(by Gordon S. Rule & T. Kevin Hitchens)*
-     - Introduction to Algorithms, 2nd Edition *(by Cormen, 2001 MIT press)*
-     - Computational Biochemistry and Biophysics *(by Oren M. Becker, et al.)*
-     - Seamless R and C++ Integration with Rcpp
-     - Advanced R *(by Hadley Wickham)*
-     - R Packages *(by Hadley Wickham)*
-     - Understanding Molecular Simulation, 2nd Edition: From Algorithms to Applications *(Computational Science Series, Vol. 1, by Daan Frenkel & Berend Smit)*
-     - Molecular Modelling: Principles and Applications *(by Leach)*
-     - Statistical Mechanics *(by Donald Allan McQuarrie, 2000)*
-     - Biochemistry *(by Lubert Stryer)*
-     - The Grant Application Writer's Workbook *(by Russel and Morrison)*
-     - NextGen PhD ([link](http://www.hup.harvard.edu/catalog.php?isbn=9780674504653))
-     - Introductory Statistics with R *(by Dalgaard)*
-     - [link](https://www.nap.edu/catalog/21896/fostering-integrity-in-research)
-     - Physical Chemistry *(by McQuarrie, classic, known as the "Big Red")*
-     - Big Data Analytics with R *(by Simon Walkowiak)*
-     - Network Science *(by Albert-Laszlo Barabasi, 2016, [link](http://networksciencebook.com/0#introduction0))
-     - Getting Things Done *(by David Allen)*
-     - Molecular Vibrations, 2nd Edition *(by E. B. Wilson Jr., 1980)*
+<div w3-include-html="books.html"></div>
+<div w3-include-html="software.html"></div>
+<div w3-include-html="journals.html"></div>
+<div w3-include-html="tools.html"></div>
 
-* Software [link](software.html)
+<script>
+includeHTML();
+</script>
