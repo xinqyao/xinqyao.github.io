@@ -1,3 +1,5 @@
 name: Xinqiu Yao
 markdown: kramdown
 permalink: /blog/:year/:month/:day/:title
+
+theme: jekyll-theme-leap-day
