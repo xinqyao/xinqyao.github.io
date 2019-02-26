@@ -36,6 +36,7 @@ function includeHTML() {
 <div w3-include-html="software.html"></div>
 <div w3-include-html="journals.html"></div>
 <div w3-include-html="tools.html"></div>
+<div w3-include-html="terms.html"></div>
 
 <script>
 includeHTML();
