@@ -1,9 +1,7 @@
 ---
 layout: default
-title: Xinqiu Yao
+title: Research
 ---
-
-# Xinqiu Yao, Ph.D.
 
 My research applies bioinformatics and computational chemistry to fundamental questions in biochemistry, biophysics, and molecular biology. My general approach is to develop and apply state-of-the-art computational techniques that can be coupled to experimental methods, and be predictive of a wide range of physiological and pathophysiological processes, including:
 
@@ -20,7 +18,6 @@ Currently, my research focuses on:
 * Developing novel computational tools for the analysis of structural biological data.
 * Predicting drug hypersensitivities and developing new approaches to drug discovery with improved safety and cost-effectiveness. 
 
-See my [CV](/cv) for additional information.
 
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">

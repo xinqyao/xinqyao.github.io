@@ -1,6 +1,6 @@
 ---
 layout: default
-title: "CV of Xinqiu Yao"
+title: "About Xinqiu Yao"
 ---
 [Download CV as PDF](CV_XQYao.pdf).
 
