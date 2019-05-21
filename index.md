@@ -18,7 +18,6 @@ Currently, my research focuses on:
 * Developing novel computational tools for the analysis of structural biological data.
 * Predicting drug hypersensitivities and developing new approaches to drug discovery with improved safety and cost-effectiveness. 
 
-
 <!-- Start of StatCounter Code for Default Guide -->
 <script type="text/javascript">
 var sc_project=11495595; 
