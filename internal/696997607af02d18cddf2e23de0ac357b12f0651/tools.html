@@ -177,10 +177,20 @@
 	<ul>
 		<li>sudo systemctl enable XXXd</li>
 	</ul>
-	<li>Use 'eog' to open images</li>
+	<li>Use 'eog' or 'xdg-open' to open images</li>
 	<li>To show path of a running job</li>
 	<ul>
 		<li>pwdx [PID]</li>
+	</ul>
+	<li> Add a new account in Hamelberg lab</li>
+	<ul>
+		<li>ssh -X -Y root@chemham0.gsu.edu.dyn.gsu.edu</li>
+		<li>system-config-users</li>
+		<li>Add the user; user name is first initial + last name.</li>
+		<li>Uncheck create a private group</li>
+		<li>Go to user groups; check hamelberg and uncheck users</li>
+		<li>make -C /var/yp/</li>
+		<li>service ypserv restart</li>
 	</ul>
 	<li>Amber MD with distance restraints</li>
 	<ul>
